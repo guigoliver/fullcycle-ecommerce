@@ -1,0 +1,3 @@
+[submodule "go-api"]
+	path = go-api
+	url = https://github.com/guigoliver/go-api
