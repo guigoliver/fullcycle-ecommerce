@@ -1,3 +1,6 @@
 [submodule "go-api"]
 	path = go-api
 	url = https://github.com/guigoliver/go-api
+[submodule "nestjs-order-microservice"]
+	path = nestjs-order-microservice
+	url = https://github.com/guigoliver/nestjs-order-microservice.git
