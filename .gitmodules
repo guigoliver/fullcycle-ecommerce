@@ -4,3 +4,6 @@
 [submodule "nestjs-order-microservice"]
 	path = nestjs-order-microservice
 	url = https://github.com/guigoliver/nestjs-order-microservice.git
+[submodule "nextjs-frontend"]
+	path = nextjs-frontend
+	url = https://github.com/guigoliver/nextjs-frontend.git
